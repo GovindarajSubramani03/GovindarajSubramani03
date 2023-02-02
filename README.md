@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Govindaraj Subramanani</h1>
-<h3 align="center">A Native-App Developer(Flutter) and A Tech Fanatic</h3>
+<h3 align="center">A Cross platform-App Developer(Flutter) and A Tech Fanatic</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindarajsubramani03&label=Profile%20views&color=0e75b6&style=flat" alt="govindarajsubramani03" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter,Dart,Firebase & C/C++**
 
-- 💬 Ask me about **Flutter,Dart,Native-App Development**
+- 💬 Ask me about **Flutter,Dart,Cross platform-App Development**
 
 - 📫 How to reach me **gokulgovindaraj008@gmail.com**
 
